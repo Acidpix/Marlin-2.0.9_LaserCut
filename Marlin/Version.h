@@ -22,7 +22,7 @@
 #pragma once
 
 ////////////////////////////
-// VENDOR VERSION EXAMPLE //
+// VENDOR VERSION EXAMPLE /
 ////////////////////////////
 
 /**
